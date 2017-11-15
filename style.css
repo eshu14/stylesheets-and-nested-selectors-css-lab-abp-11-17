@@ -9,10 +9,10 @@ header{
 body {
   padding: 0 30px 0 30px;
 }
-header.nav{
+header nav{
   float:right;
 }
-header.nav.ul{
+header nav ul{
   padding:0;
   margin:40px 0 0 0;
 }
