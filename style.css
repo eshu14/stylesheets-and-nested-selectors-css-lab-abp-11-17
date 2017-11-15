@@ -12,3 +12,15 @@ body {
 nav{
   float:right;
 }
+nav.a{
+  color:#007bff;
+  font-size: 18px;
+}
+h3{
+  float:left;
+  font-size:30px;
+}
+h3.a{
+  text-decoration:none;
+  color:#868e96;
+}
